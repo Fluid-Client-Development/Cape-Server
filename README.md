@@ -7,3 +7,7 @@ Repository of Fluid Client capes. Currently given to players who suggest feature
 ```
 
 This file contains a map of player to a cape file. This isn't ideal, but any kind of proper cape system requires server hosting, and server hosting requires money, so.......... you know
+
+
+### Note :
+The "by_player.json", there are no player names, those are all minecraft UniqueID (or whatever).
